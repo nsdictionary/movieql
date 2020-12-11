@@ -1,0 +1,3 @@
+# MovieQL
+
+Study GraphQL Basics
